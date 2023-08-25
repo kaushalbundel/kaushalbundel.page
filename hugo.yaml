@@ -1,4 +1,4 @@
-baseURL: "https://kaushalbundel.github.io/kaushalbundel.page/"  # Replace with your domain
+baseURL: "https://kaushalbundel.com/"  # Replace with your domain
 languageCode: "en-us"
 theme: "hugo-xmin"
 title: "Experiments, Thoughts and Reflection"
