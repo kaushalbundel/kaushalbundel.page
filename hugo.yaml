@@ -1,0 +1,30 @@
+baseURL: "https://kaushalbundel.github.io/kaushalbundel.page/"  # Replace with your domain
+languageCode: "en-us"
+theme: "hugo-xmin"
+title: "Experiments, Thoughts and Reflection"
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: ""
+      weight: 1
+    - identifier: about
+      name: About
+      url: "/about/"
+      weight: 2
+    - identifier: posts
+      name: Posts
+      url: "/posts/"
+      weight: 3
+    - identifier: note
+      name: Notes
+      url: "/note/"
+      weight: 4
+    - identifier: tags
+      name: Tags
+      url: "/tags/"
+      weight: 5
+params:
+  description: "Experiments, Thoughts and Reflection"
+  footer: "&copy; [Kaushal Bundel](https://kaushalbundel.page) 2023| [Github](https://github.com/kaushalbundel)"
+enableEmoji: true
