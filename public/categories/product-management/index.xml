@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product management on Experiments, Thoughts and Reflection</title>
+    <link>https://kaushalbundel.github.io/kaushalbundel.page/categories/product-management/</link>
+    <description>Recent content in Product management on Experiments, Thoughts and Reflection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2023 21:29:45 +0530</lastBuildDate><atom:link href="https://kaushalbundel.github.io/kaushalbundel.page/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User Story</title>
+      <link>https://kaushalbundel.github.io/kaushalbundel.page/posts/2021-01-19-user-story/</link>
+      <pubDate>Tue, 15 Aug 2023 21:29:45 +0530</pubDate>
+      
+      <guid>https://kaushalbundel.github.io/kaushalbundel.page/posts/2021-01-19-user-story/</guid>
+      <description>What is a user story? It is a high level description of a user requirement written from the end user&amp;rsquo;s perspective. In simpler terms the user story is a means the communicate to the developer what needs to be built
+How are user stories derived? User stories are derived from EPIC and user persona
+EPIC: It is a big chunk of work that has one common objective.It could be a feature, customer request or a business requirement.</description>
+    </item>
+    
+  </channel>
+</rss>
