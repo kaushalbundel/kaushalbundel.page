@@ -36,7 +36,7 @@ Emacs keybindings  can be complicated. This list of Emacs keybindings consists o
       - M-g g goto line number
       - ESC-number C-n/p/f/b perform motion that number of times
       
-(4) Cut, Copy and Paste
+(4) Text Manipulation
 
       - C-space to select text to copy/cut
       - C-w cut highlighted
@@ -50,6 +50,7 @@ Emacs keybindings  can be complicated. This list of Emacs keybindings consists o
       - C-h v kill-ring
       - C-x 0 to close the kill-ring window
       - C-y Esc-y to cycle through kill-ring for paste
+      - C-x C-; to comment/uncomment block of text
       
 (4) Buffers
 
