@@ -8,7 +8,7 @@ categories: ["Emacs"]
 tags: ["Emacs"]
 ---
 
-**Last Update Date: 09/22/2023**
+**Last Update Date: 09/24/2023**
 
 Emacs keybindings  can be complicated. This list of Emacs keybindings consists of most used Emacs commands in my opinion. This list is in no way a comprehensive list and further additions and deletions should be expected in the future. 
 
@@ -45,11 +45,12 @@ Emacs keybindings  can be complicated. This list of Emacs keybindings consists o
       - C-k cut to end of line?
       - C-x backspace, M-k (backwards/forwards delete the current line)
       - M-z character cuts to that character
-      - ESC-number ESC-d deletes that number of words
       - C-x u undo (alternate to this is C-/)
       - C-h v kill-ring
       - C-x 0 to close the kill-ring window
       - C-y Esc-y to cycle through kill-ring for paste
+      - ESC-number ESC-d deletes that number of words
+      - C-D/ M-D Deletes a  word forwards and backwards
       
 (4) Buffers
 
