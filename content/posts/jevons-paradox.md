@@ -1,8 +1,8 @@
- ---
+---
 author: Kaushal Bundel
-date: 2023-10-25
+date: 2023-10-23
 draft: false
-title: Jevons paradox: A lament for using more 
+title: Jevons Paradox: A lament for using more
 description: Understanding Jevons Paradox
 categories: ["interesting"]
 tags: ["random"]
