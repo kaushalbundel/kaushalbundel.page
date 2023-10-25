@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interesting on Experiments, Thoughts and Reflection</title>
+    <link>https://kaushalbundel.com/categories/interesting/</link>
+    <description>Recent content in interesting on Experiments, Thoughts and Reflection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kaushalbundel.com/categories/interesting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jevons Paradox: A lament for using more</title>
+      <link>https://kaushalbundel.com/posts/jevons-paradox/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/jevons-paradox/</guid>
+      <description>Jevons Paradox implies that in the long term, an increase in efficiency in the resource usage will generate an increase in resource consumption rather than a decrease ([^1]: Unraveling the Complexity of the Jevons Paradox: The Link Between Innovation, Efficiency, and Sustainability).
+Jevons Paradox is a term conceived in economics by English economist William Stanley Jevons in his 1865 book &amp;ldquo;The Coal Question&amp;rdquo;. Jevons observed that England&amp;rsquo;s coal consumption increased after James Watt introduced new efficient steam engine, though by all means the coal consumption should have decreased as a result of higher efficiency of coal powered engines.</description>
+    </item>
+    
+  </channel>
+</rss>

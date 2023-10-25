@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Experiments, Thoughts and Reflection</title>
+    <link>https://kaushalbundel.com/categories/emacs/</link>
+    <description>Recent content in Emacs on Experiments, Thoughts and Reflection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kaushalbundel.com/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Keybindings</title>
+      <link>https://kaushalbundel.com/posts/emacs-vanilla-keybindings/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/emacs-vanilla-keybindings/</guid>
+      <description>Last Update Date: 09/24/2023
+Emacs keybindings can be complicated. This list of Emacs keybindings consists of most used Emacs commands in my opinion. This list is in no way a comprehensive list and further additions and deletions should be expected in the future.
+(1) Opening Document
+- C-x C-f for find file - You can type full path to a file or create a new document. - You could also just open the path to a directory and find the file.</description>
+    </item>
+    
+  </channel>
+</rss>

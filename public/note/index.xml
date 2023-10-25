@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Experiments, Thoughts and Reflection</title>
+    <link>https://kaushalbundel.com/note/</link>
+    <description>Recent content in Notes on Experiments, Thoughts and Reflection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kaushalbundel.com/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dev Log (10/19/2023) (Flutter and Dart)</title>
+      <link>https://kaushalbundel.com/note/dev-log-10-19-2023/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/note/dev-log-10-19-2023/</guid>
+      <description>Completed Tasks Started Learning Flutter and Dart from the Udemy Course along with miscellaneous readings
+Completed the first section of the course
+Objective: Create a flutter project to simulate Dice ie. as a button on the screen is clicked the UI changes randomly and a new number is shown on the app UI Project Link: Github Project: Dice Simulation Concepts learnt How Dart Works?
+Freecodecamp - An Introduction to Dart Significance of &amp;ldquo;const&amp;rdquo; keyword</description>
+    </item>
+    
+    <item>
+      <title>Notes I Beg to Differ</title>
+      <link>https://kaushalbundel.com/note/notes-i-beg-to-differ/</link>
+      <pubDate>Tue, 15 Aug 2023 21:29:45 +0530</pubDate>
+      
+      <guid>https://kaushalbundel.com/note/notes-i-beg-to-differ/</guid>
+      <description>Notes from the article I beg to differ Author: Howard Marks In Investing world, to earn above than average return you need to be different. This means doing things, thinking things in a manner which other people are not doing.
+&amp;ldquo;You can&amp;rsquo;t take the same actions as everyone else and expect to outperform. If you hope to distinguish yourself in terms of performance, you have to depart from the pack. But, having departed, the difference will only be positive if your choice of strategies and tactics in correct and/or you are able to execute better.</description>
+    </item>
+    
+  </channel>
+</rss>

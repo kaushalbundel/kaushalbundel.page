@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product management on Experiments, Thoughts and Reflection</title>
-    <link>https://kaushalbundel.github.io/kaushalbundel.page/categories/product-management/</link>
+    <link>https://kaushalbundel.com/categories/product-management/</link>
     <description>Recent content in Product management on Experiments, Thoughts and Reflection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2023 21:29:45 +0530</lastBuildDate><atom:link href="https://kaushalbundel.github.io/kaushalbundel.page/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Aug 2023 21:29:45 +0530</lastBuildDate><atom:link href="https://kaushalbundel.com/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>User Story</title>
-      <link>https://kaushalbundel.github.io/kaushalbundel.page/posts/2021-01-19-user-story/</link>
+      <link>https://kaushalbundel.com/posts/2021-01-19-user-story/</link>
       <pubDate>Tue, 15 Aug 2023 21:29:45 +0530</pubDate>
       
-      <guid>https://kaushalbundel.github.io/kaushalbundel.page/posts/2021-01-19-user-story/</guid>
+      <guid>https://kaushalbundel.com/posts/2021-01-19-user-story/</guid>
       <description>What is a user story? It is a high level description of a user requirement written from the end user&amp;rsquo;s perspective. In simpler terms the user story is a means the communicate to the developer what needs to be built
 How are user stories derived? User stories are derived from EPIC and user persona
 EPIC: It is a big chunk of work that has one common objective.It could be a feature, customer request or a business requirement.</description>
+    </item>
+    
+    <item>
+      <title>Notes on Client/end User&#39;s Discovery process</title>
+      <link>https://kaushalbundel.com/posts/2021-01-26-client-discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/2021-01-26-client-discovery/</guid>
+      <description>Pre Client Discovery process
+Get a small write up from the concerned stakeholder defining what is needed/expected out of the call Check the preposition offered What&amp;rsquo;s being offered to the client? What are some pros and cons of the offering? Whats the expected outcome and output? What are some of the competitors? What&amp;rsquo;s the usp of the solution implemented by major competitors? Confirm if the client has done some sort of similar task earlier.</description>
     </item>
     
   </channel>

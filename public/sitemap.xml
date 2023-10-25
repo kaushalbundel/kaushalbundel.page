@@ -2,27 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/tags/business-analysis/</loc>
+    <loc>https://kaushalbundel.com/categories/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/categories/interesting/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/posts/jevons-paradox/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/posts/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/tags/random/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/tags/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/categories/dart/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/note/dev-log-10-19-2023/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/tags/dev_logs/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/categories/flutter/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/note/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/tags/emacs/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/categories/emacs/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/posts/emacs-vanilla-keybindings/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kaushalbundel.com/tags/business-analysis/</loc>
     <lastmod>2023-08-15T21:29:45+05:30</lastmod>
   </url><url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/categories/</loc>
+    <loc>https://kaushalbundel.com/note/notes-i-beg-to-differ/</loc>
     <lastmod>2023-08-15T21:29:45+05:30</lastmod>
   </url><url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/</loc>
+    <loc>https://kaushalbundel.com/categories/product-management/</loc>
     <lastmod>2023-08-15T21:29:45+05:30</lastmod>
   </url><url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/posts/</loc>
+    <loc>https://kaushalbundel.com/posts/2021-01-19-user-story/</loc>
     <lastmod>2023-08-15T21:29:45+05:30</lastmod>
   </url><url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/categories/product-management/</loc>
-    <lastmod>2023-08-15T21:29:45+05:30</lastmod>
+    <loc>https://kaushalbundel.com/about/</loc>
   </url><url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/tags/</loc>
-    <lastmod>2023-08-15T21:29:45+05:30</lastmod>
+    <loc>https://kaushalbundel.com/categories/agile-development/</loc>
   </url><url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/posts/2021-01-19-user-story/</loc>
-    <lastmod>2023-08-15T21:29:45+05:30</lastmod>
+    <loc>https://kaushalbundel.com/categories/client-discovery/</loc>
   </url><url>
-    <loc>https://kaushalbundel.github.io/kaushalbundel.page/about/</loc>
+    <loc>https://kaushalbundel.com/posts/2021-01-26-client-discovery/</loc>
+  </url><url>
+    <loc>https://kaushalbundel.com/posts/2021-01-20-uat/</loc>
+  </url><url>
+    <loc>https://kaushalbundel.com/categories/testing/</loc>
+  </url><url>
+    <loc>https://kaushalbundel.com/categories/uat/</loc>
   </url>
 </urlset>

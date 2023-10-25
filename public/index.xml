@@ -2,17 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Experiments, Thoughts and Reflection</title>
-    <link>https://kaushalbundel.github.io/kaushalbundel.page/</link>
+    <link>https://kaushalbundel.com/</link>
     <description>Recent content in Home on Experiments, Thoughts and Reflection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2023 21:29:45 +0530</lastBuildDate><atom:link href="https://kaushalbundel.github.io/kaushalbundel.page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kaushalbundel.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>User Story</title>
-      <link>https://kaushalbundel.github.io/kaushalbundel.page/posts/2021-01-19-user-story/</link>
+      <title>Jevons Paradox: A lament for using more</title>
+      <link>https://kaushalbundel.com/posts/jevons-paradox/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/jevons-paradox/</guid>
+      <description>Jevons Paradox implies that in the long term, an increase in efficiency in the resource usage will generate an increase in resource consumption rather than a decrease ([^1]: Unraveling the Complexity of the Jevons Paradox: The Link Between Innovation, Efficiency, and Sustainability).
+Jevons Paradox is a term conceived in economics by English economist William Stanley Jevons in his 1865 book &amp;ldquo;The Coal Question&amp;rdquo;. Jevons observed that England&amp;rsquo;s coal consumption increased after James Watt introduced new efficient steam engine, though by all means the coal consumption should have decreased as a result of higher efficiency of coal powered engines.</description>
+    </item>
+    
+    <item>
+      <title>Dev Log (10/19/2023) (Flutter and Dart)</title>
+      <link>https://kaushalbundel.com/note/dev-log-10-19-2023/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/note/dev-log-10-19-2023/</guid>
+      <description>Completed Tasks Started Learning Flutter and Dart from the Udemy Course along with miscellaneous readings
+Completed the first section of the course
+Objective: Create a flutter project to simulate Dice ie. as a button on the screen is clicked the UI changes randomly and a new number is shown on the app UI Project Link: Github Project: Dice Simulation Concepts learnt How Dart Works?
+Freecodecamp - An Introduction to Dart Significance of &amp;ldquo;const&amp;rdquo; keyword</description>
+    </item>
+    
+    <item>
+      <title>Emacs Keybindings</title>
+      <link>https://kaushalbundel.com/posts/emacs-vanilla-keybindings/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/emacs-vanilla-keybindings/</guid>
+      <description>Last Update Date: 09/24/2023
+Emacs keybindings can be complicated. This list of Emacs keybindings consists of most used Emacs commands in my opinion. This list is in no way a comprehensive list and further additions and deletions should be expected in the future.
+(1) Opening Document
+- C-x C-f for find file - You can type full path to a file or create a new document. - You could also just open the path to a directory and find the file.</description>
+    </item>
+    
+    <item>
+      <title>Notes I Beg to Differ</title>
+      <link>https://kaushalbundel.com/note/notes-i-beg-to-differ/</link>
       <pubDate>Tue, 15 Aug 2023 21:29:45 +0530</pubDate>
       
-      <guid>https://kaushalbundel.github.io/kaushalbundel.page/posts/2021-01-19-user-story/</guid>
+      <guid>https://kaushalbundel.com/note/notes-i-beg-to-differ/</guid>
+      <description>Notes from the article I beg to differ Author: Howard Marks In Investing world, to earn above than average return you need to be different. This means doing things, thinking things in a manner which other people are not doing.
+&amp;ldquo;You can&amp;rsquo;t take the same actions as everyone else and expect to outperform. If you hope to distinguish yourself in terms of performance, you have to depart from the pack. But, having departed, the difference will only be positive if your choice of strategies and tactics in correct and/or you are able to execute better.</description>
+    </item>
+    
+    <item>
+      <title>User Story</title>
+      <link>https://kaushalbundel.com/posts/2021-01-19-user-story/</link>
+      <pubDate>Tue, 15 Aug 2023 21:29:45 +0530</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/2021-01-19-user-story/</guid>
       <description>What is a user story? It is a high level description of a user requirement written from the end user&amp;rsquo;s perspective. In simpler terms the user story is a means the communicate to the developer what needs to be built
 How are user stories derived? User stories are derived from EPIC and user persona
 EPIC: It is a big chunk of work that has one common objective.It could be a feature, customer request or a business requirement.</description>
@@ -20,12 +64,35 @@ EPIC: It is a big chunk of work that has one common objective.It could be a feat
     
     <item>
       <title>About</title>
-      <link>https://kaushalbundel.github.io/kaushalbundel.page/about/</link>
+      <link>https://kaushalbundel.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kaushalbundel.github.io/kaushalbundel.page/about/</guid>
+      <guid>https://kaushalbundel.com/about/</guid>
       <description>I am Kaushal Bundel. I live in Jaipur, Rajasthan (India) with loving, caring parents, a wonderful wife and super energetic daughter. My story started with loving Comics, Books and Computers. Though Computers were a treat to play with, I detested programming and related works. I enjoyed creating small games, running &amp;ldquo;Kid&amp;rsquo;s&amp;rdquo; Olympics with me and my 3 other friends and creating short stories.
 I did my engineering staying as far as Computers as I can.</description>
+    </item>
+    
+    <item>
+      <title>Notes on Client/end User&#39;s Discovery process</title>
+      <link>https://kaushalbundel.com/posts/2021-01-26-client-discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/2021-01-26-client-discovery/</guid>
+      <description>Pre Client Discovery process
+Get a small write up from the concerned stakeholder defining what is needed/expected out of the call Check the preposition offered What&amp;rsquo;s being offered to the client? What are some pros and cons of the offering? Whats the expected outcome and output? What are some of the competitors? What&amp;rsquo;s the usp of the solution implemented by major competitors? Confirm if the client has done some sort of similar task earlier.</description>
+    </item>
+    
+    <item>
+      <title>Notes on UAT</title>
+      <link>https://kaushalbundel.com/posts/2021-01-20-uat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaushalbundel.com/posts/2021-01-20-uat/</guid>
+      <description>What is UAT?
+UAT is User Acceptance testing. Essentially it is a testing performed by the end user/client before moving the software application to the production environment.
+What&amp;rsquo;s the need of UAT?
+capture the requirement in a direct and verifiable manner identify problems which unit/integration tests might have missed tells how &amp;ldquo;done&amp;rdquo; the system is Steps to do an effective UAT
+Plan the UAT Preparation of the test data, scenarios and test environment UAT test scheduling and management UAT testing execution and issue management Testing signoff and reporting Types of UAT</description>
     </item>
     
   </channel>
