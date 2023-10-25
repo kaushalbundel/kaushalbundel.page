@@ -1,7 +1,6 @@
 ---
 author: Kaushal Bundel
 date: 2023-09-22
-draft: false
 title: Emacs Keybindings
 description: Reference Guide for Emacs Keybindings
 categories: ["Emacs"]
