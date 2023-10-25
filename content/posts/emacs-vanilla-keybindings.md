@@ -1,11 +1,11 @@
----
+ ---
 author: Kaushal Bundel
 date: 2023-09-22
 title: Emacs Keybindings
 description: Reference Guide for Emacs Keybindings
 categories: ["Emacs"]
 tags: ["Emacs"]
----
+ ---
 
 **Last Update Date: 09/24/2023**
 
