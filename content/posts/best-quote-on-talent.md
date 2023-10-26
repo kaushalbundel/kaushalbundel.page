@@ -37,12 +37,11 @@ The paper is an interesting and engaging read with the author conducting his stu
 
 3. Success is Ordinary
 
-> "People don't know how ordinary success is" Mary T. Meagher (Winner of 3 Olympic Medals in Los Angeles Olympics). She then speaks of starting her career in a summer league country club team, of working her way to AAU meets, to faster and faster competitions; of learning new habits, meeting new challenges.
-
     3.1 Excellence is mundane 
     
     3.2 Motivation is mundane
     
-    3.3 In the pursuit of excellence, maintaining mundanity is the key psycological challenge.
+    3.3 In the pursuit of excellence, maintaining mundanity is the key psychological challenge.
     
 
+> "People don't know how ordinary success is" Mary T. Meagher (Winner of 3 Olympic Medals in Los Angeles Olympics). She then speaks of starting her career in a summer league country club team, of working her way to AAU meets, to faster and faster competitions; of learning new habits, meeting new challenges.
