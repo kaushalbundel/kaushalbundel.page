@@ -1,12 +1,9 @@
 ---
-author: 'Kaushal Bundel'
-date: '2023-11-03'
 title: 'A Gentle Introduction to Ideal Customer Profile'
 description: 'A Gentle Introduction to Ideal Customer Profile'
 categories: ["Product Management"]
 tags: ["Product"]
 ---
-
 ## What's the need for ICP?
 
 Imagine that you are starting up with a new venture that is geared towards manufacturing candies. The candies that are in your mind fulfil a niche segment which no one has thought of yet. You are upbeat about what is to come. The investors have yet to be onboarded but you have some early capital that has been brought with the help of friends and family. Now, it’s the time to produce the "candies" you had in your mind for so long.
