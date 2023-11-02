@@ -1,5 +1,5 @@
 ---
-date: '2023-11-03'
+date: '2023-11-02'
 title: 'A Gentle Introduction to Ideal Customer Profile'
 description: 'A Gentle Introduction to Ideal Customer Profile'
 categories: ["Product Management"]
