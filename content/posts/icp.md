@@ -1,4 +1,5 @@
 ---
+date: '2023-11-03'
 title: 'A Gentle Introduction to Ideal Customer Profile'
 description: 'A Gentle Introduction to Ideal Customer Profile'
 categories: ["Product Management"]
@@ -50,4 +51,5 @@ The ICP is intended to make you reach a product market fit. As the product matur
 
 ## References
 
-###  [[https://medium.com/racecapital/defining-your-ideal-customer-profile-icp-41b7b58107de][Defining your Ideal Customer Profile]]
+### [Defining you Ideal Customer Profile (Medium)](https://medium.com/racecapital/defining-your-ideal-customer-profile-icp-41b7b58107de)
+
