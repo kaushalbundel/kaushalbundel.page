@@ -1,7 +1,7 @@
 ---
 author: 'Kaushal Bundel'
 date: '2023-11-03'
-title: 'ICP : Ideal Customer Profile - A Gentle Introduction'
+title: 'A Gentle Introduction to Ideal Customer Profile'
 description: 'A Gentle Introduction to Ideal Customer Profile'
 categories: ["Product Management"]
 tags: ["Product"]
