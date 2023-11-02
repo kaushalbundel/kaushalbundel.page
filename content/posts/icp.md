@@ -52,4 +52,5 @@ The ICP is intended to make you reach a product market fit. As the product matur
 "ICP" is important not only from the perspective of Product Management but also from various other related facets such as "Marketing", "Sales" and "Product Quality". Knowing and understanding your customers will go a long way in creating delightful products and services.
 
 ## References
+
 ###  [[https://medium.com/racecapital/defining-your-ideal-customer-profile-icp-41b7b58107de][Defining your Ideal Customer Profile]]
