@@ -8,11 +8,11 @@ tags: ["Product Management"]
 
 ## What is core action?
 
-Core Action of any product is the central theme of the product. It is the action performed by the user that will provide maximum utility the product has to offer. Once the user has performed this step repeatedly and successfully, one can be sure that the user understands the product and is comfortable in using the product.
+Core Action for any product is the central theme of the product. It is the action performed by the user that will provide maximum utility the product has to offer. Once the user has performed this step repeatedly and successfully, one can be sure that the user understands the product and is comfortable in using the product.
 
 ## Why is core action important?
 
-Successful core action signifies that the user has derived major utility that the product is offering. Repeat core action signifies that the product model is synced with the user's mental model and the user would continue to use the product. Core Action becomes crucial from the point of view of NUX(New User Experience). The user onboarding process suffers immensely when the expected core action is not explicit to the new user.
+Successful core action signifies that the user has derived major utility the product is offering. Repeat core action signifies that the product model is synced with the user's mental model and the user would continue to use the product. Core Action becomes crucial from the point of view of NUX(New User Experience). The user onboarding process suffers immensely when the expected core action is not explicit to the new user.
 
 ## What is an example of Core Action?
 
