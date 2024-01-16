@@ -20,6 +20,7 @@ Here is a collection of my frequently used commands and tricks to use EWW.
       - Open Eww: M-x Eww 
       - Open a new Eww buffer: C-u M-x Eww
       - Quit Eww: q
+      - To make the page readable by focusing on the content: R
 
 (2) Copy links 
 
