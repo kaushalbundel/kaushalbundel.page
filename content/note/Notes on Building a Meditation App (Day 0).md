@@ -1,8 +1,8 @@
 +++
-title = "<2024-02-05 Mon>"
+title = "Notes on building a meditation app (Day 0)"
 author = ["Kaushal Bundel"]
 date = 2024-02-05T00:00:00+05:30
-lastmod = 2024-02-06T02:04:22+05:30
+lastmod = 2024-02-06T02:13:02+05:30
 tags = ["business", "meditationapp", "Business", "DevNotes"]
 categories = ["MeditationApp"]
 draft = false
