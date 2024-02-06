@@ -2,10 +2,10 @@
 title = "Notes on Building a meditation app (Day 1)"
 author = ["Kaushal Bundel"]
 date = 2024-02-06T00:00:00+05:30
-lastmod = 2024-02-06T20:55:08+05:30
+lastmod = 2024-02-06T21:06:54+05:30
 tags = ["business", "meditationapp", "Business", "DevNotes"]
 categories = ["MeditationApp"]
-draft = true
+draft = false
 +++
 
 ## Defining the Constraints {#defining-the-constraints}
