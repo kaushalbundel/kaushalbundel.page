@@ -1,7 +1,7 @@
 ---
 title: "Notes I Beg to Differ"
 date: 2023-08-15T21:29:45+05:30
-draft: true
+draft: false
 ---
 
 # Notes from the article I beg to differ
