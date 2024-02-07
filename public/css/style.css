@@ -49,3 +49,24 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+
+/* Marking Todo and Done entries */
+
+.org-todo.todo.TODO{
+  background-color: #C73145;
+  padding: 5px;
+  border: dotted;
+}
+
+.org-todo.done.DONE{
+  background-color: #279F37;
+  padding: 5px;
+  border: dotted;
+}
+
+/*placeholder for adding in progress work as well*/
+
+.timestamp-wrapper{
+  background-color: #ddd;
+}
